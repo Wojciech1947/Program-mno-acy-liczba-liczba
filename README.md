@@ -1,4 +1,4 @@
-# Program-mno-acy-liczba-liczba
+# Program-mnozacy-liczba-liczba
 import java.io BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
